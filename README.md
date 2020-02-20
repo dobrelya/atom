@@ -1,5 +1,6 @@
 # Atom
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/765e24b8e7b949eb98094f849410b2cc)](https://app.codacy.com/manual/dobrelya/atom?utm_source=github.com&utm_medium=referral&utm_content=dobrelya/atom&utm_campaign=Badge_Grade_Dashboard)
 [![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
 [![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com)
